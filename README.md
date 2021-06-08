@@ -9,6 +9,7 @@ Implemented Things like
 * Fixed-Point & Floating-Point Conversion
 * MIPS instructions
 * Datapaths
+* CAM Design (BCAM,STCAM,TCAM)
 
 
 ### Includes
@@ -17,6 +18,7 @@ Implemented Things like
 * Lab 3: Datapath Control and ALU Control Units
 * Lab 4: Single Cycle Datapath
 * Lab 5: Pipelined Datapath
+* Lab 6: Generic Flip-Flop CAM Dessign space
 
 
 #### Some Tests 
