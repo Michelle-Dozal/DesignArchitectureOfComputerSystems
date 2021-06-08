@@ -8,12 +8,15 @@ Implemented Things like
 * ALU
 * Fixed-Point & Floating-Point Conversion
 * MIPS instructions
+* Datapaths
 
 
 ### Includes
 * Lab 1: Arithmetic and Logic Unit (ALU)
 * Lab 2: Fixed-Point to Floating-Point (& vice versa)
 * Lab 3: Datapath Control and ALU Control Units
+* Lab 4: Single Cycle Datapath
+* Lab 5: Pipelined Datapath
 
 
 #### Some Tests 
